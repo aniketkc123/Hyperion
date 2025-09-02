@@ -15,7 +15,7 @@ The repo is designed to be:
 
 ---
 
-## 📂 Repository Structure
+
 ## 📂 Repository Structure
 ```text
 hyperion-solution/

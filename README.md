@@ -59,7 +59,7 @@ Place your dataset in the data/ folder (e.g., dataset.csv or dataset.fits).
 Run the analysis pipeline:
 python -m src.analysis
 This generates plots in results/figures/ and prints fitted parameters.
-
+```
 For exploratory work, open the notebook:
 jupyter notebook notebooks/analysis.ipynb
 📊 Example Results
@@ -72,7 +72,7 @@ Figures: Saved in results/figures/.
 
 <p align="center"> <img src="results/figures/lightcurve_peak_fit.png" alt="Lightcurve Fit" width="500"/> </p>
 📄 Report
-
+```
 A short scientific-style report is included: report/final_report.pdf
 
 It outlines:
@@ -84,7 +84,7 @@ Methodology (data, preprocessing, modeling)
 Results & interpretation
 
 Conclusion and future work
-
+```
 🙌 Acknowledgments
 
 Hyperion 2024–25, organized by the Astronomy Club, IIT Kanpur
